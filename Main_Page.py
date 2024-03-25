@@ -160,7 +160,7 @@ df1 = df.copy()
 # ==================================================
 
 
-st.header( 'Marketplace - Fome Zero!' )
+st.header( '📈 Marketplace - Fome Zero!' )
 st.markdown( '### O Melhor lugar para encontrar seu mais novo restaurante favorito!' )
 
 # image_path = '\Users\uemer\Repos\FTC\CICLO_5\logo.png'
