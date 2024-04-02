@@ -88,6 +88,9 @@ Tipos culinários pior avaliados
 É dado por um painel online, hospedado em uma Cloud e disponível para acesso em qualquer dispositivo conectado à internet. O painel pode ser acessado por meio do seguinte link:
 https://fome-zero-restaurantes-uemersonds.streamlit.app/
 
+![image](https://github.com/UemersonDS/Fome-Zero-Restaurantes/assets/143893161/ab52cbd9-7f36-493a-933b-04ef1da4cada)
+
+
 
 
 Endereço do dashborad com os dados e métricas propostas:
