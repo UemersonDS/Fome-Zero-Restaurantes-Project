@@ -1,5 +1,5 @@
 # Importando Bibliotecas
-# LibrariesS
+# Libraries
 from haversine import haversine
 
 import plotly.express as px
