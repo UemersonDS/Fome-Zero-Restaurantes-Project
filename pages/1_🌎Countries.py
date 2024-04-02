@@ -12,7 +12,6 @@ import streamlit as st
 from PIL import Image
 import folium
 from folium.plugins import MarkerCluster
-# ou import PIL.Image as imgpil
 
 
 st.set_page_config (page_title='Countries', page_icon='🌎', layout = 'wide')
@@ -179,10 +178,6 @@ def clean_code(df):
     # Definisdo os restaurantes po apenas um tipo de culinaria
     df["Cuisines"] = df.loc[:, "Cuisines"].astype(str).apply(lambda x: x.split(",")[0])
 
-    # df.info() #valores nulos
-    #print(df.isnull())
-    # print(df.isna())
-
 
     df = df.copy()
     df = df.dropna(subset=['Country Name'])
@@ -232,7 +227,6 @@ df1 = df1.loc[linhas_selecionadas, :]
 # Layout no Streamlit
 # ==================================================
 
-#tab1, tab2, tab3 = st.tabs ( [ 'Visão Gerencial', '_', '_'])
 
 #with tab1:
 st.title( '🌎 Visão Países' )
