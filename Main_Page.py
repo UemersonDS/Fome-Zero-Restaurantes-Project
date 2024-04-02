@@ -204,7 +204,7 @@ with st.container():
     with col1:
         # 1. Quantos restaurantes únicos estão registrados?
         rest_unique = df.loc[:, 'Restaurant ID'].nunique()
-        col1.metric( 'Restaurantes Cadastrados', rest_unique  )
+        col1.metric( 'Total de Restaurantes', rest_unique  )
 
     with col2:
         # 2. Quantos países únicos estão registrados?
