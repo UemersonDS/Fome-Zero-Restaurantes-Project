@@ -12,8 +12,6 @@ import streamlit as st
 from PIL import Image
 import folium
 from folium.plugins import MarkerCluster
-# ou import PIL.Image as imgpil
-
 
 
 st.set_page_config (page_title='Main Page', page_icon='📈')
@@ -106,9 +104,6 @@ def rename_columns(dataframe):
     return df1
 
 # ---------------LIMPEZA DE DADOS--------------------------------
-   # Limpando dados 
-
-
 
     # Removendo linhas 'NaN'
 
@@ -163,7 +158,6 @@ df1 = df.copy()
 st.header( '📈 Marketplace - Fome Zero!' )
 st.markdown( '### O Melhor lugar para encontrar seu mais novo restaurante favorito!' )
 
-# image_path = '\Users\uemer\Repos\FTC\CICLO_5\logo.png'
 image_path = 'logo.webp'
 image = Image.open ( image_path )
 st.sidebar.image ( image, width=120 )
