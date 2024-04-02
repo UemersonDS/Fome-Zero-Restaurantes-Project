@@ -90,11 +90,14 @@ https://fome-zero-restaurantes-uemersonds.streamlit.app/
 
 ![image](https://github.com/UemersonDS/Fome-Zero-Restaurantes/assets/143893161/ab52cbd9-7f36-493a-933b-04ef1da4cada)
 
+# [6] CONCLUSÃO
+O objetivo deste projeto foi o de criar um conjunto de gráficos e/ou tabelas para exibir as métricas do negócio da melhor forma possível para o CEO. No painel, a visão de países indica a existência de grande potencial para crescimento dos negócios.
 
+# [7] PRÓXIMOS PASSOS
+O projeto pode ser aprimorado para:
 
+(I) Incluir novos filtros de informações, de modo a aumentar a funcionalidade para o usuário.
 
-Endereço do dashborad com os dados e métricas propostas:
-https://fome-zero-restaurantes-uemersonds.streamlit.app/
+(II) Adicionar novas visões de negócios, que permitam auxiliar a tomada de decisões gerenciais diferenciadas, de acordo com as características de cada país ou grupo de países.
 
-Endereço de hospedagem do dataset:
-https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv
+(III) Criar novos indicadores, voltados tanto para o crescimento do negócio, quanto para o aprimoramento da qualidade do serviço prestado.
