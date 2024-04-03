@@ -105,7 +105,20 @@ def rename_columns(dataframe):
 
 # ---------------LIMPEZA DE DADOS--------------------------------
 
-    # Removendo linhas 'NaN'
+    """""
+        LIMPEZA do DATAFRAME
+        
+        Tipos de limpezas:
+        1. Remoção dos dados NaN
+        2. Mudança do tipo da coluna de dados
+        3. Remoção dos espaços das variáveis de texxto
+        4. Formatação da coluna de datas
+        5. Limpeza da coluna de tempo ( Remoção dos texto da variavel númerica )
+        
+        Input: Dataframe
+        Output: Dataframe
+    
+    """""
 
 df = df.dropna(subset=['Restaurant ID'])
 df = df.dropna(subset=['Restaurant Name'])
