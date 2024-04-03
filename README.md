@@ -19,6 +19,15 @@ A empresa Fome Zero! é um marketplace de restaurantes, tendo como núcleo do se
 9. Qual o nome do país que possui, na média, a maior nota média registrada?
 10. Qual o nome do país que possui, na média, a menor nota média registrada?
 11. Qual a média de preço de um prato para dois por país?
+# Questões sobre as Cidades:
+1. Qual o nome da cidade que possui mais restaurantes registrados?
+2. Qual o nome da cidade que possui mais restaurantes com nota média acima de 4?
+3. Qual o nome da cidade que possui mais restaurantes com nota média abaixo de 2.5?
+4. Qual o nome da cidade que possui o maior valor médio de um prato para dois?
+5. Qual o nome da cidade que possui a maior quantidade de tipos de culinária distintas?
+6. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem reservas?
+7. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem entregas?
+8. Qual o nome da cidade que possui a maior quantidade de restaurantes que aceitam pedidos online?
 # Questões sobre os restaurantes:
 1. Qual o nome do restaurante que possui a maior quantidade de avaliações?
 2. Qual o nome do restaurante com a maior nota média?
