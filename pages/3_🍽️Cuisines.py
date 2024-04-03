@@ -129,7 +129,7 @@ def rename_columns(dataframe):
 
 def clean_code(df):
 
-        """""
+    """""
         Está função tem a responsabilidade de limpar o DATAFRAME
         
         Tipos de limpezas:
