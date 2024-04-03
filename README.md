@@ -29,10 +29,31 @@ A empresa Fome Zero! é um marketplace de restaurantes, tendo como núcleo do se
 7. Os restaurantes que fazem reservas são também, na média, os restaurantes que possuem o maior valor médio de um prato para duas pessoas?
 8. Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América possuem um valor médio de prato para duas pessoas maior que as churrascarias americanas (BBQ)?
 # Questões sobre os tipos de culinária:
-1. Dos restaurantes que possuem determinado tipo de culinária (ex: italiana), qual o nome do restaurante com a maior/menor média de avaliação?
-2. Qual o tipo de culinária que possui o maior valor médio de um prato para duas pessoas?
-3. Qual o tipo de culinária que possui a maior nota média?
-4. Qual o tipo de culinária que possui mais restaurantes que aceitam pedidos online e fazem entregas?
+ 1. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do
+ restaurante com a maior média de avaliação?
+ 2. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do
+ restaurante com a menor média de avaliação?
+ 3. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do
+ restaurante com a maior média de avaliação?
+ 4. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do
+ restaurante com a menor média de avaliação?
+ 5. Dos restaurantes que possuem o tipo de culinária árabe, qual o nome do
+ restaurante com a maior média de avaliação?
+ 6. Dos restaurantes que possuem o tipo de culinária árabe, qual o nome do
+ restaurante com a menor média de avaliação?
+ 7. Dos restaurantes que possuem o tipo de culinária japonesa, qual o nome do
+ restaurante com a maior média de avaliação?
+ 8. Dos restaurantes que possuem o tipo de culinária japonesa, qual o nome do
+ restaurante com a menor média de avaliação?
+ 9. Dos restaurantes que possuem o tipo de culinária caseira, qual o nome do
+ restaurante com a maior média de avaliação?
+ 10. Dos restaurantes que possuem o tipo de culinária caseira, qual o nome do
+ restaurante com a menor média de avaliação?
+ 11. Qual o tipo de culinária que possui o maior valor médio de um prato para duas
+ pessoas?
+ 12. Qual o tipo de culinária que possui a maior nota média?
+ 13. Qual o tipo de culinária que possui mais restaurantes que aceitam pedidos
+ online e fazem entregas?
 # [2] AS PREMISSAS DO NEGÓCIO
 # O desenvolvimento do projeto tomou por base as seguintes premissas:
 I - base de dados com informações de restaurantes localizados em 15 países.
