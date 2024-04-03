@@ -7,7 +7,7 @@ A empresa Fome Zero! é um marketplace de restaurantes, tendo como núcleo do se
 3. Quantas cidades únicas estão registradas?
 4. Qual o total de avaliações feitas?
 5. Qual o total de tipos de culinária registrados?
-# Questões sobre os países:
+# Questões sobre os Países:
 1. Qual o nome do país que possui mais cidades registradas?
 2. Qual o nome do país que possui mais restaurantes registrados?
 3. Qual o nome do país que possui mais restaurantes com o nível de preço igual a 4 registrados?
@@ -28,7 +28,7 @@ A empresa Fome Zero! é um marketplace de restaurantes, tendo como núcleo do se
 6. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem reservas?
 7. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem entregas?
 8. Qual o nome da cidade que possui a maior quantidade de restaurantes que aceitam pedidos online?
-# Questões sobre os restaurantes:
+# Questões sobre os Restaurantes:
 1. Qual o nome do restaurante que possui a maior quantidade de avaliações?
 2. Qual o nome do restaurante com a maior nota média?
 3. Qual o nome do restaurante que possui o maior valor de uma prato para duas pessoas?
@@ -37,7 +37,7 @@ A empresa Fome Zero! é um marketplace de restaurantes, tendo como núcleo do se
 6. Os restaurantes que aceitam pedido online são também, na média, os restaurantes que mais possuem avaliações registradas?
 7. Os restaurantes que fazem reservas são também, na média, os restaurantes que possuem o maior valor médio de um prato para duas pessoas?
 8. Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América possuem um valor médio de prato para duas pessoas maior que as churrascarias americanas (BBQ)?
-# Questões sobre os tipos de culinária:
+# Questões sobre os tipos de Culinárias:
  1. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do
  restaurante com a maior média de avaliação?
  2. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do
