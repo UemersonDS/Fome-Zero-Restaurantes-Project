@@ -1,4 +1,6 @@
 # Fome-Zero-Restaurantes
+![fome_zero_restaurantes](
+img/fome_zero_restaurantes.png)
 # [1] O PROBLEMA DE NEGÓCIO
 A empresa Fome Zero é um marketplace de restaurantes, tendo como núcleo do seu negócio propiciar o encontro e as negociações entre clientes e restaurantes. Para tanto, a empresa possui uma plataforma tecnológica por meio da qual são disponibilizadas informações referentes aos restaurantes, dentre as quais o endereço, tipo de culinária servida, se possui reservas, se faz entregas e também uma nota de avaliação dos serviços e produtos de cada restaurante. Nesse contexto, o CEO da empresa necessita identificar os pontos chaves do empreendimento, contando para isso com o trabalho do cientista de dados, que deve buscar nos dados as respostas das questões de interesse para o desenvolvimento do negócio, dentre as quais:
 # Questões Gerais:
