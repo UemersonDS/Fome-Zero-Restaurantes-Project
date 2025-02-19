@@ -1,4 +1,4 @@
-# Fome-Zero-Restaurantes
+# Fome Zero Restaurantes
 ![fome_zero_restaurantes](
 img/fome_zero_restaurantes.png)
 # [1] O PROBLEMA DE NEGÓCIO
